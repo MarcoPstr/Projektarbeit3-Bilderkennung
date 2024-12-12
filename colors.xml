@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf8'?>
+<root>
+<rot>
+<lower>1, 124, 153</lower>
+<upper>9, 214, 255</upper>
+</rot>
+<blau>
+<lower>101, 23, 167</lower>
+<upper>112, 173, 255</upper>
+</blau>
+<gruen>
+<lower>55, 64, 211</lower>
+<upper>69, 162, 253</upper>
+</gruen>
+<orange>
+<lower>12, 168, 234</lower>
+<upper>18, 224, 254</upper>
+</orange>
+</root>
